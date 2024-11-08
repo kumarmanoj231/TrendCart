@@ -1,1 +1,1 @@
-# TrendCart
+# TrendCart - an Ecommerce website
